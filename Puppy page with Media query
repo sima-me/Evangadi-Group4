@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Shadows+Into+Light&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/Project/CSS/mystyle.css" />
+    <link rel="icon" href="/Project/images/dog-solid.svg" />
+    <title>Puppy Media Query</title>
+  </head>
+  <body>
+    <!-- Blue header section starts -->
+    <header class="Header">
+      <div class="Blue-Section">
+        <p>Puppy lovers page</p>
+      </div>
+    </header>
+
+    <!-- Banner section starts -->
+    <section class="Banner">
+      <div class="Banner-Image">
+        <img src="../Project/images/banner-puppies.jpg" alt="" />
+      </div>
+    </section>
+
+    <!-- Middle section starts -->
+    <section class="Mid-Section">
+      <div class="PuppyOne-Text-PuppyTwo">
+        <div class="PuppyOne">
+          <img src="../Project/images/puppy-1.jpg" alt="" />
+        </div>
+        <div class="PuppyMissingText">
+          <p>Puppy missing here!</p>
+        </div>
+        <div class="PuppyTwo">
+          <img src="../Project/images/puppy-2.jpg" alt="" />
+        </div>
+      </div>
+      <!-- More pupies text  -->
+      <div class="More-Puppies">
+        <p>More Puppies</p>
+      </div>
+      <!-- Puppies 3 and 4  -->
+      <div class="PuppyThree-PuppyFour">
+        <div class="PuppyThree">
+          <img src="../Project/images/puppy-3.jpg" alt="" />
+        </div>
+        <div class="PuppyFour">
+          <img src="../Project/images/puppy-4.jpg" alt="" />
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer section Starts  -->
+    <footer class="Footer">
+      <div class="Blue-Section">
+        <p>Developed by: Nebyu</p>
+      </div>
+    </footer>
+  </body>
+</html>
