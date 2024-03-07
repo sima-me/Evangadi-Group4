@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive media query</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <h1>This is a test for images size using relative or absolute values</h1>
+    <img src="../images/puppy-1.jpg" alt="White Puppy" />
+  </body>
+</html>
