@@ -1,0 +1,27 @@
+body {
+  background-color: aqua;
+}
+
+img {
+  /* page isnot responsive with fixed value */
+  /* width: 700px; */
+  width: 70%;
+  /* page is responsive and takes 70% of the screen size */
+}
+
+h1 {
+  background-color: purple;
+  -webkit-text-stroke-color: brown;
+  color: white;
+}
+
+@media (max-width: 500px) {
+  img {
+    width: 100%;
+    /* if the screen size is less than 500px the image will take the full screen of the page  And if the screen size is bigger than 500 it will take the 70% of the page*/
+
+    /* max-width maynot work always. */
+
+    /* if we have to work with the fixed heigh value, we can use the object fit-cover adn object positon bottom */
+  }
+}
