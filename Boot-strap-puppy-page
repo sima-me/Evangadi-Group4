@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boot Strap puppy</title>
+  <link rel="stylesheet" href="./bootstrap.css">
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <!-- Header starts here -->
+  <header>
+    <div class="inside-container3 text-center p-3">
+      <div class="background-text"><h1>Puppy lovers page</p></div>
+    </div>
+  </header>
+  <!-- Header ends here -->
+  <!-- Section1 starts here -->
+  <section class="bannerimage">
+    <div class="mb-5"> <img src="../PuppyProjectMediaQueries/Projects/images/banner-puppies.jpg" alt="">
+    </div>
+    </div>
+  </section>
+  <!-- Section1 ends here -->
+  <!-- Section2 starts here -->
+  <section class="container">
+    <div class="row">
+      <div class="pup1 mb-5 col-md-4 mb-md-0"><img src="../PuppyProjectMediaQueries/Projects/images/puppy-1.jpg" alt=""></div>
+      <div class="d-none d-md-block col-md-4 nopup0"><p class="text-center pt-4 pr-3 pl-3" >Puppy missing here!!</p></div>
+      <div class="pup2 col-md-4"><img src="../PuppyProjectMediaQueries/Projects/images/puppy-2.jpg" alt=""></div>
+    </div>
+  </section>
+  <!-- Section2 ends here -->
+  <!-- section3 starts here -->
+  <section class="container">
+    <div class="">
+      <div class="morepup text-center mb-4 mt-4"> <p class="font-weight-bold">More puppies</p></div>
+      <div class="lasttwopups row">
+        <div class= "fourthpup  col-md-6 mb-5 mb-md-0"><img src="../PuppyProjectMediaQueries/Projects/images/puppy-3.jpg" alt=""></div>
+      <div class="fifthpup mb-5 col-md-6"><img src="../PuppyProjectMediaQueries/Projects/images/puppy-4.jpg" alt=""></div>
+      </div>
+    </div>
+  </section>
+  <!-- section3 ends here -->
+  <!-- Footer section starts here -->
+  <footer>
+    <div class="inside-container3 text-center p-5">
+      <div class="developedby "> Developed by Sima </div>
+      </div>
+  </footer>
+  <!-- footer section ends here -->
+</body>
+</html>
+
 
